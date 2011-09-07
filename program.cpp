@@ -1,3 +1,8 @@
+/** Jared Dickson
+  * CIS 677
+  * 2011-09-07
+  */
+
 #include <iostream>
 #include <cstdlib>
 #include <ctime>
